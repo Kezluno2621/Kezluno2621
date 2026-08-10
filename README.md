@@ -3,9 +3,10 @@
 ### 🛡️ Information Security · System Security · Reverse Engineering
 
 정보보호 분야를 목표로 공부하고 있는 컴퓨터공학 전공자입니다.  
-보안 기술을 공부하면서 직접 사용할 수 있는 **보안 도구와 소프트웨어를 개발**하고 있습니다.
+시스템 보안과 리버스 엔지니어링을 중심으로 공부하며,  
+직접 사용할 수 있는 **보안 도구와 소프트웨어를 개발**하고 있습니다.
 
-> Computer Engineering Student interested in  
+> Computer Engineering student interested in  
 > **Information Security, Reverse Engineering, Digital Forensics and System Security.**
 
 ---
@@ -35,82 +36,56 @@
 
 ---
 
-## 🛡️ Security Interests
+# 🛡️ Cybersecurity
 
-`Reverse Engineering` · `System Security` · `Digital Forensics` · `Malware Analysis` · `Network Security` · `CTF / Security Research`
+## 🔍 Security Interests
 
----
+`Reverse Engineering` · `System Security` · `Digital Forensics`  
+`Malware Analysis` · `Binary Analysis` · `Network Security` · `CTF`
 
-## 🚀 Projects
-
-### 🔎 Yara Studio
-
-Development project for creating and managing YARA-related workflows and security analysis utilities.
-
-**Tech:** `TypeScript`
-
-📦 [kezulno/yara_studio](https://github.com/kezulno/yara_studio)
+특히 **Low-Level / System Security** 분야에 관심을 가지고 공부하고 있습니다.
 
 ---
 
-### 📱 JustCheck
+## 🔧 Security Tools
 
-Mobile application for managing outing checklists, reminders and daily routines.
+#### 🔬 Reverse Engineering & Binary Analysis
 
-**Tech:** `React Native` `Expo` `TypeScript`
+`x64dbg` · `GDB` · `NASM` · `HxD`
 
-📦 [kezulno/JustCheck](https://github.com/kezulno/JustCheck)
+#### 🔍 Digital Forensics
 
----
+`FTK Imager` · `Wireshark`
 
-### ✅ TaskDesk
+#### 🛡️ Security Analysis
 
-Desktop productivity application for managing tasks and workflows.
+`YARA` · `Semgrep` · `Bandit` · `Trivy` · `Gitleaks`
 
-**Tech:** `TypeScript`
+#### 🖥️ Lab & Infrastructure
 
-📦 [kezulno/TaskDesk](https://github.com/kezulno/TaskDesk)
-
----
-
-## 🌱 Currently Learning
-
-- 🔬 x86-64 Assembly & Reverse Engineering
-- 🐧 Linux System Programming
-- 🔍 Digital Forensics
-- 🦠 Malware Analysis
-- 🌐 Network Security
-- 🧠 Computer Architecture
+`Kali Linux` · `Linux` · `Windows` · `Proxmox` · `Docker`
 
 ---
 
-## 📊 GitHub Stats
+## 🧪 Security Lab
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kezulno&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kezulno&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
+개인 홈랩을 활용하여 보안 실습 환경을 구축하고 있습니다.
 
----
-
-## 📫 Contact
-
-- 📧 **Email:** [kim051902@naver.com](mailto:kim051902@naver.com)
-- 📝 **Naver Blog:** [blog.naver.com/revrow2621](https://blog.naver.com/revrow2621)
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Engineering
-- 🛡️ Career Goal: **Information Security**
-- ✈️ ROK Air Force CERT (`2024.11.18 ~ 2026.08.17`)
-- 🔐 Interested in **System Security / Reverse Engineering / Digital Forensics**
-- 🎮 Games · 📚 Reading · ✈️ Travel · 🎧 J-Pop
-- ⭐ Favorite Artist: **Hoshimachi Suisei / 星街すいせい**
-
----
-
-<p align="center">
-  <b>Security · Development · Research</b>
-</p>
+```text
+                    ┌──────────────────┐
+                    │     Proxmox      │
+                    │   Homelab Host   │
+                    └────────┬─────────┘
+                             │
+             ┌───────────────┼───────────────┐
+             │               │               │
+        Malware Lab       Web Lab        Dev / Infra
+             │               │               │
+       ┌─────┴─────┐     Vulnerable      Code Server
+       │           │      Services         Docker
+     Kali       Windows
+    Linux       Victim VM
+       │           │
+       └─────┬─────┘
+             │
+       Isolated Network
