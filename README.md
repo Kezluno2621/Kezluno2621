@@ -240,20 +240,6 @@ Desktop productivity application for managing tasks and workflows.
 
 ---
 
-### 🐛 Territory-Worm
-
-3D turn-based strategy game built with Unity.
-
-Players move across a cube-based map while using trails, items and movement strategies to trap opponents.
-
-**Tech**
-
-`Unity` `C#`
-
-📦 [kezulno/Territory-Worm](https://github.com/kezulno/Territory-Worm)
-
----
-
 # 🌱 Currently Learning
 
 ## 🔬 Reverse Engineering
@@ -312,41 +298,6 @@ Players move across a cube-based map while using trails, items and movement stra
 - [ ] Binary Exploitation
 - [ ] CTF Write-ups
 - [ ] Security Research
-
----
-
-# 🚩 Security Practice
-
-보안 학습 내용과 실습 결과를 GitHub에 지속적으로 기록하고 있습니다.
-
-<pre>
-security-study/
-│
-├── reverse-engineering/
-│   ├── x86-64/
-│   ├── gdb/
-│   ├── x64dbg/
-│   └── writeups/
-│
-├── system-security/
-│   ├── linux/
-│   ├── memory/
-│   └── binary/
-│
-├── malware-analysis/
-│   ├── static-analysis/
-│   ├── dynamic-analysis/
-│   └── yara/
-│
-├── digital-forensics/
-│   ├── disk/
-│   ├── memory/
-│   └── network/
-│
-└── README.md
-</pre>
-
-📦 [kezulno/security-study](https://github.com/kezulno/security-study)
 
 ---
 
