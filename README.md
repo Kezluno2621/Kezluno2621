@@ -235,20 +235,6 @@ Automated security analysis platform for source code and applications.
 
 ---
 
-### 🧪 Vulnerability Test
-
-Security testing environment containing vulnerable code samples.
-
-취약점의 발생 원리를 직접 확인하고 분석하기 위한 테스트 프로젝트입니다.
-
-**Tech**
-
-`Python` `Vulnerability Analysis`
-
-📦 [kezulno/vulnerability_test](https://github.com/kezulno/vulnerability_test)
-
----
-
 ## 💻 Software Projects
 
 ### 📱 JustCheck
@@ -285,6 +271,7 @@ Desktop productivity application for managing tasks and workflows.
 - x64dbg
 - NASM
 - Binary Structure
+- DB, Network deepning
 
 ## 🐧 System Security
 
@@ -339,7 +326,7 @@ Desktop productivity application for managing tasks and workflows.
 # 📫 Contact
 
 - 📧 **Email:** [kim051902@naver.com](mailto:kim051902@naver.com)
-- 📝 **Naver Blog:** [blog.naver.com/revrow2621](https://blog.naver.com/revrow2621)
+- 📝 **Naver Blog:** [blog.naver.Kezluno](https://blog.naver.com/revrow2621)
 
 ---
 
@@ -349,11 +336,6 @@ Desktop productivity application for managing tasks and workflows.
 - 🛡️ Career Goal: **Information Security**
 - 🔐 Main Interests: **System Security / Reverse Engineering / Digital Forensics**
 - ✈️ ROK Air Force CERT (`2024.11.18 ~ 2026.08.17`)
-- 🎮 Games
-- 📚 Reading
-- ✈️ Travel
-- 🎧 J-Pop
-- ⭐ Favorite Artist: **Hoshimachi Suisei / 星街すいせい**
 
 ---
 
