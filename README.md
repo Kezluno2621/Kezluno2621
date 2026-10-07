@@ -1,3 +1,4 @@
+<img width="2048" height="768" alt="사이버 밤의 케즐루노 해커 고양이" src="https://github.com/user-attachments/assets/de0727d7-0f9c-418f-bc1a-a967f4a28149" />
 # 👋 Hi, I'm Kangmin Kim
 
 ### 🛡️ Information Security · System Security · Reverse Engineering
