@@ -17,15 +17,16 @@
 
 ### 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,py,linux,git,docker,kali&perline=7"
+    alt="C, C++, Python, Linux, Git, Docker, Kali Linux"
+  />
+</p>
 
 ### 🔧 Tools & Environment
 
-**Environment:** Linux, Windows, Git, Docker, Proxmox  
-**Analysis Tools:** GDB, x64dbg, NASM, HxD, Wireshark, FTK Image
----
+**Analysis Tools:** GDB · x64dbg · NASM · HxD · Wireshark · FTK Imager
 
 ## 🔍 Current Focus
 
@@ -42,30 +43,39 @@
 개인 Proxmox 홈랩에서 Kali Linux와 Windows 분석 VM을 운영합니다.
 악성코드 실습용 네트워크를 분리하고 스냅샷으로 실험 환경을 복구합니다.
 
-<pre>
-                    ┌──────────────────┐
-                    │     Proxmox      │
-                    │   Homelab Host   │
-                    └────────┬─────────┘
-                             │
-             ┌───────────────┼───────────────┐
-             │               │               │
-        Malware Lab       Web Lab        Dev / Infra
-             │               │               │
-       ┌─────┴─────┐     Vulnerable      Code Server
-       │           │      Services         Docker
-     Kali       Windows
-    Linux       Victim VM
-       │           │
-       └─────┬─────┘
-             │
-       Isolated Network
-</pre>
+```mermaid
+flowchart TD
+    P["Proxmox Homelab"] --> M["Malware Lab"]
+    P --> W["Web Lab"]
+    P --> D["Dev / Infra"]
+    M --> K["Kali Linux"]
+    M --> V["Windows Victim VM"]
+    K --> N["Isolated Network"]
+    V --> N
+    W --> S["Vulnerable Services"]
+    D --> C["Code Server / Docker"]
+```
 
 ## 📦 Projects & Study Notes
 
 - [Security Study](https://github.com/Kezluno2621/Kezluno-Workspace))
   - 리버싱 및 보안 실습 기록
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kezluno2621&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub activity statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kezluno2621&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Most used programming languages"
+  />
+</p>
 
 ---
 
