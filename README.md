@@ -1,4 +1,4 @@
-<img width="2048" height="768" alt="사이버 밤의 케즐루노 해커 고양이" src="https://github.com/user-attachments/assets/de0727d7-0f9c-418f-bc1a-a967f4a28149" />
+<img width="1983" height="793" alt="github_profile_img" src="https://github.com/user-attachments/assets/9f90c85e-1f47-4f91-b952-c602a1ada2c0" />
 
 # 👋 Hi, I'm Kangmin Kim
 
