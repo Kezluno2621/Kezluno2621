@@ -58,7 +58,7 @@ flowchart TD
 
 ## 📦 Projects & Study Notes
 
-- [Security Study](https://github.com/Kezluno2621/Kezluno-Workspace))
+- [Security Study](https://github.com/Kezluno2621/Kezluno-Workspace)
   - 리버싱 및 보안 실습 기록
 
 ---
