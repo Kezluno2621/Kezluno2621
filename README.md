@@ -2,6 +2,11 @@
 
 # 👋 Hi, I'm Kangmin Kim
 
+## 👨‍💻 Background
+
+- 🎓 Computer Engineering
+- ✈️ ROK Air Force CERT (2024.11–2026.08)
+
 ### 🛡️ Information Security · System Security · Reverse Engineering
 
 정보보호 분야를 목표로 공부하고 있습니다.
@@ -15,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Core Skills
 
 <p align="center">
   <img
@@ -56,7 +61,7 @@ flowchart TD
     D --> C["Code Server / Docker"]
 ```
 
-## 📦 Projects & Study Notes
+## 📦 Study Notes
 
 - [Security Study](https://github.com/Kezluno2621/Kezluno-Workspace)
   - 리버싱 및 보안 실습 기록
@@ -83,13 +88,6 @@ flowchart TD
 
 - 📧 **Email:** [kim051902@naver.com](mailto:kim051902@naver.com)
 - 📝 **Naver Blog:** [blog.naver.Kezluno](https://blog.naver.com/revrow2621)
-
----
-
-## 👨‍💻 Background
-
-- 🎓 Computer Engineering
-- ✈️ ROK Air Force CERT (2024.11–2026.08)
 
 ---
 
