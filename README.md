@@ -1,5 +1,3 @@
-<img width="1983" height="793" alt="달빛 아래의 사이버 보안 작업실" src="https://github.com/user-attachments/assets/ae258ff1-2c19-4be0-aea5-55f45876847b" />
-
 # 👋 Hi, I'm Kangmin Kim
 
 ## 👨‍💻 Background
