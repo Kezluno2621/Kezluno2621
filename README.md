@@ -65,22 +65,6 @@ flowchart TD
   - 리버싱 및 보안 실습 기록
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kezluno2621&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub activity statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kezluno2621&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most used programming languages"
-  />
-</p>
-
----
 
 # 📫 Contact
 
