@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Background
 
-- 🎓 Computer Engineering
+- Dong-A 🎓 Computer Engineering
 - ✈️ ROK Air Force CERT (2024.11–2026.08)
 
 ### 🛡️ Information Security · System Security · Reverse Engineering
@@ -61,7 +61,7 @@ flowchart TD
 
 ## 📦 Study Notes
 
-- [Security Study](https://github.com/Kezluno2621/Kezluno-Workspace)
+- [Security Study](###)
   - 리버싱 및 보안 실습 기록
 
 ---
